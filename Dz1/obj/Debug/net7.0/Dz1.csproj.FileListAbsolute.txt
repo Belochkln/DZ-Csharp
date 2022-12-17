@@ -1,0 +1,15 @@
+D:\Учёба\C#\Dz1\bin\Debug\net7.0\Dz1.exe
+D:\Учёба\C#\Dz1\bin\Debug\net7.0\Dz1.deps.json
+D:\Учёба\C#\Dz1\bin\Debug\net7.0\Dz1.runtimeconfig.json
+D:\Учёба\C#\Dz1\bin\Debug\net7.0\Dz1.dll
+D:\Учёба\C#\Dz1\bin\Debug\net7.0\Dz1.pdb
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.csproj.AssemblyReference.cache
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.AssemblyInfoInputs.cache
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.AssemblyInfo.cs
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.dll
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\refint\Dz1.dll
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.pdb
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\Dz1.genruntimeconfig.cache
+D:\Учёба\C#\Dz1\obj\Debug\net7.0\ref\Dz1.dll
