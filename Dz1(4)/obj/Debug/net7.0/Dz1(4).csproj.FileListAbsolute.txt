@@ -1,0 +1,15 @@
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).csproj.AssemblyReference.cache
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).GeneratedMSBuildEditorConfig.editorconfig
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).AssemblyInfoInputs.cache
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).AssemblyInfo.cs
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).csproj.CoreCompileInputs.cache
+D:\Учёба\C#\Dz1(4)\bin\Debug\net7.0\Dz1(4).exe
+D:\Учёба\C#\Dz1(4)\bin\Debug\net7.0\Dz1(4).deps.json
+D:\Учёба\C#\Dz1(4)\bin\Debug\net7.0\Dz1(4).runtimeconfig.json
+D:\Учёба\C#\Dz1(4)\bin\Debug\net7.0\Dz1(4).dll
+D:\Учёба\C#\Dz1(4)\bin\Debug\net7.0\Dz1(4).pdb
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).dll
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\refint\Dz1(4).dll
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).pdb
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\Dz1(4).genruntimeconfig.cache
+D:\Учёба\C#\Dz1(4)\obj\Debug\net7.0\ref\Dz1(4).dll
