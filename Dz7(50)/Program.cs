@@ -5,7 +5,7 @@ int column = new Random().Next(2, 8);
 Random randomNumber = new Random();
 int[,] table = new int[row, column];
 int[] number = new int[row * column];
-int l = 0;
+int rank = 0;
 Console.WriteLine("Задан массив: ");
 
 for (int i = 0; i < row; i++)
@@ -14,8 +14,8 @@ for (int i = 0; i < row; i++)
     {
         table[i, j] = new Random().Next(0, 100);
         Console.Write(table[i, j] + "  ");
-        number[l] = table[i, j];
-        l++;
+        number[rank] = table[i, j];
+        rank++;
     }
     Console.WriteLine();
 }
