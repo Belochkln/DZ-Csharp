@@ -26,5 +26,5 @@ for (int i = 0; i < column; i++)
     {
         sum = sum + table[j, i];
     }
-    Console.WriteLine($"{i+1}ого: {sum}");
+    Console.WriteLine($"{i+1}ого: {sum/row}");
 }
