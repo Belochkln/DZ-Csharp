@@ -11,4 +11,3 @@ for (int i = startNumber; i <= endNumber; i++)
 }
 
 Console.WriteLine($"Сумма всех натуральных элементов в промежутке от {startNumber} до {endNumber} = {sum}");
-
